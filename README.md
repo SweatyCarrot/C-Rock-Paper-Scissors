@@ -1,2 +1,4 @@
 # C-Rock-Paper-Scissors
-Rock Paper Scissors but in C
+<h3>Instructions</h3>
+1. Download and build
+2. Enjoy playing Rock Paper Scissors
